@@ -1,0 +1,11 @@
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
+
+# https://github.com/Free-Software-for-Android/AdAway/commit/6227c54ee8633a3e8160fac89bacda4488ba4ba4#commitcomment-14811176
+0.0.0.0 ads.adswitcher.com
