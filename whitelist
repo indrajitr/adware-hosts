@@ -3,8 +3,16 @@
 
 #tapad.com
 
-# needed in citibank.com website
+# Needed for citibank.com website
+# Update 2017-06-19: citibank.com seems to work fine without this
+# Update 2017-08-24: this is necessary for promos and recommendation
+#                    from within citibank.com
 citi.bridgetrack.com
 
-# needed in twitter mobile app
-analytics.twitter.com
+# Needed for twitter mobile app
+# Update 2017-06-19: Already white-listed in mvps.org data
+#analytics.twitter.com
+
+# Needed for YouTube watched status
+# See: https://github.com/StevenBlack/hosts/issues/172#issuecomment-247792989
+s.youtube.com

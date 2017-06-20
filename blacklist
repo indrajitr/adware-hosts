@@ -9,3 +9,7 @@
 
 # https://github.com/Free-Software-for-Android/AdAway/commit/6227c54ee8633a3e8160fac89bacda4488ba4ba4#commitcomment-14811176
 0.0.0.0 ads.adswitcher.com
+
+# Cleanup for anandabazar.com
+0.0.0.0 adserve.datawrkz.com
+0.0.0.0 www.bnserving.com
