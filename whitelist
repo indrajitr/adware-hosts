@@ -16,3 +16,6 @@ citi.bridgetrack.com
 # Needed for YouTube watched status
 # See: https://github.com/StevenBlack/hosts/issues/172#issuecomment-247792989
 s.youtube.com
+
+# Needed for twitter tracking
+twittercounter.com
