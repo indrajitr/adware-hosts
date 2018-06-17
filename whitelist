@@ -19,3 +19,7 @@ s.youtube.com
 
 # Needed for twitter tracking
 twittercounter.com
+
+# Needed for different blogs and articles (e.g., sonyalpharumors.com)
+# This is seemingly harmless
+static.addtoany.com
